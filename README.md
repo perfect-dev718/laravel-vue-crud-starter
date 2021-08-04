@@ -49,7 +49,7 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 based Curd Starter template for SPA
 - `php artisan passport:install`
 - `npm install`
 - `npm run dev`
-- `php artisan serve`
+- `php -S localhost:8000 -t public`
 
 ## Install with Docker
 
